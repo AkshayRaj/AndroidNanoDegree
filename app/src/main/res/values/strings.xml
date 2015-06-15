@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyAppPortfolio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="SpotifyStreamer">SPOTIFY STREAMER</string>
+    <string name="ScoreApp">SCORES APP</string>
+    <string name="LibraryApp">LIBRARY APP</string>
+    <string name="BuildItBigger">BUILD IT BIGGER</string>
+    <string name="XYZReader">XYZ READER</string>
+    <string name="Capstone">CAPSTONE</string>
+    <string name="match_parent">match_parent</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1">
+
+    <Button
+        android:id="@+id/btn_build_it_bigger"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/BuildItBigger"
+        android:background="@color/orange_udacity"
+        android:layout_margin="@dimen/margin"
+        android:textColor="@color/BLACK"
+        android:clickable="true"/>
+
+</FrameLayout>

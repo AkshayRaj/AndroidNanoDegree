@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background_material_light"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:paddingLeft="@dimen/padding_horizontal"
+    android:paddingRight="@dimen/padding_horizontal"
+    android:paddingTop="@dimen/padding_vertical"
+    android:paddingBottom="@dimen/padding_vertical">
+
+    <include layout="@layout/button_spotify_streamer"/>
+    <include layout="@layout/button_scores_app"/>
+    <include layout="@layout/button_library_app"/>
+    <include layout="@layout/button_build_it_bigger"/>
+    <include layout="@layout/button_xyz_reader"/>
+    <include layout="@layout/button_capstone"/>
+
+</LinearLayout>

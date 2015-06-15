@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange_udacity">#F08C35</color>
+    <color name="BLUE">#111fff</color>
+    <color name="GREY">#ffd3d3</color>
+    <color name="BLACK">#000000</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="LTBLUE">#87CEFA</color>
+    <color name="RED">#FF0000</color>
+</resources>
